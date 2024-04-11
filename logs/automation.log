@@ -1,0 +1,257 @@
+16:23:23.193 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:23:23.203 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:23:23.203 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:23:23.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:23:23.204 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:23:23.208 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:23:23.209 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:23:23.209 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:23:23.210 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:23:23.212 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:23:23.212 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:23:23.213 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:23:23.213 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:23:23.214 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:23:23.215 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:23:23.216 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:23:23.217 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:23:23.217 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:23:23.217 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:23:23.232 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\jayap\AppData\Local\Temp\testng-eclipse--1309061810\testng-customsuite.xml
+
+16:23:23.267 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+16:23:23.430 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@36676c1a: 28 ms
+16:23:23.473 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@19fe4644: 43 ms
+16:23:23.480 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@297ea53a: 7 ms
+16:23:23.488 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3faf2e7d: 8 ms
+16:23:23.494 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@305f031: 6 ms
+16:23:23.502 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1536602f: 8 ms
+16:23:23.503 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4ebea12c: 0 ms
+[DEBUG] 2024-04-05 16:26:21.984 [main] TestNG - suiteXmlPath: "C:\Users\jayap\AppData\Local\Temp\testng-eclipse--775706245\testng-customsuite.xml"
+[INFO ] 2024-04-05 16:26:22.158 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.160 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-04-05 16:26:22.161 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.161 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.161 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.161 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.162 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.162 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.168 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[INFO ] 2024-04-05 16:26:22.174 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+[INFO ] 2024-04-05 16:26:22.175 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.175 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.176 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.176 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.176 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.176 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.178 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.178 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.178 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.178 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.179 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.179 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.179 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.179 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.180 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.180 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.181 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.181 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.181 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.181 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-04-05 16:26:22.186 [main] Utils - [TestNG] Running:
+  C:\Users\jayap\AppData\Local\Temp\testng-eclipse--775706245\testng-customsuite.xml
+
+[INFO ] 2024-04-05 16:26:22.199 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[INFO ] 2024-04-05 16:26:22.312 [main] Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@71b3bc45: 30 ms
+[INFO ] 2024-04-05 16:26:22.347 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@470a696f: 35 ms
+[INFO ] 2024-04-05 16:26:22.353 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2cac4385: 6 ms
+[INFO ] 2024-04-05 16:26:22.359 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3383649e: 6 ms
+[INFO ] 2024-04-05 16:26:22.364 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4c6daf0: 5 ms
+[INFO ] 2024-04-05 16:26:22.368 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1cd201a8: 4 ms
+[INFO ] 2024-04-05 16:26:22.368 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7db82169: 0 ms
+[DEBUG] 2024-04-05 16:40:38.919 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-05 16:44:02.502 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[INFO ] 2024-04-05 16:44:02.726 [main] Utils - [TestNG] Running:
+  C:\Workspace\Automation Newseries\opencart\mastersuite.xml
+
+[DEBUG] 2024-04-05 16:49:06.423 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-05 16:53:06.669 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-05 16:53:27.170 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-05 16:57:55.468 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-05 17:16:45.285 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 10:44:00.784 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\grouping.xml"
+[INFO ] 2024-04-10 10:44:01.300 [main] Utils - [TestNG] Running:
+  C:\Workspace\Automation Newseries\opencart\grouping.xml
+
+[DEBUG] 2024-04-10 10:45:06.085 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\grouping.xml"
+[INFO ] 2024-04-10 10:45:06.363 [main] Utils - [TestNG] Running:
+  C:\Workspace\Automation Newseries\opencart\grouping.xml
+
+[DEBUG] 2024-04-10 10:52:31.385 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 10:53:33.372 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 10:58:17.991 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 10:58:30.715 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-10 10:58:30.715 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-10 10:58:30.804 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-10 10:58:31.994 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-10 10:58:31.994 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-10 10:58:33.301 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-10 10:58:33.329 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-10 10:58:33.332 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-10 10:58:33.332 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[DEBUG] 2024-04-10 10:59:18.828 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 10:59:23.326 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-10 10:59:23.326 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-10 10:59:23.416 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-10 10:59:24.035 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-10 10:59:24.035 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-10 10:59:25.447 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-10 10:59:25.478 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-10 10:59:25.480 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-10 10:59:25.480 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[DEBUG] 2024-04-10 11:02:05.630 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 11:02:13.422 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-10 11:02:13.422 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-10 11:02:13.561 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-10 11:02:14.504 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-10 11:02:14.504 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-10 11:02:15.726 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-10 11:02:15.766 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-10 11:02:15.768 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-10 11:02:15.768 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[DEBUG] 2024-04-10 11:05:29.696 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 11:05:40.351 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-10 11:05:40.351 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-10 11:05:40.438 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-10 11:05:41.714 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-10 11:05:41.715 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-10 11:05:42.864 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-10 11:05:42.897 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-10 11:05:42.900 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-10 11:05:42.900 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[DEBUG] 2024-04-10 11:06:46.222 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 11:06:52.713 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-10 11:06:52.714 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-10 11:06:52.792 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-10 11:06:54.825 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-10 11:06:54.825 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-10 11:06:55.845 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-10 11:06:55.871 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-10 11:06:55.874 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-10 11:06:55.874 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[DEBUG] 2024-04-10 11:08:44.038 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 11:08:51.958 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-10 11:08:51.959 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-10 11:08:52.075 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-10 11:08:53.598 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-10 11:08:53.598 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-10 11:08:54.721 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-10 11:08:54.763 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-10 11:08:54.766 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-10 11:08:54.766 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[DEBUG] 2024-04-10 14:57:07.427 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 14:57:12.469 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-10 14:57:12.469 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-10 14:57:13.199 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-10 14:57:13.767 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-10 14:57:13.767 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-10 14:57:15.183 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-10 14:57:15.232 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-10 14:57:15.233 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-10 14:57:15.233 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[DEBUG] 2024-04-10 16:45:58.576 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 16:46:33.105 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 16:46:36.684 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-10 16:46:36.684 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-10 16:46:36.980 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-10 16:46:37.354 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-10 16:46:37.354 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-10 16:46:38.600 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-10 16:46:38.638 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-10 16:46:38.638 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-10 16:46:38.638 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[DEBUG] 2024-04-10 16:52:35.040 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 16:52:42.145 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-10 16:52:42.145 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-10 16:52:42.523 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-10 16:52:43.062 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-10 16:52:43.062 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-10 16:52:44.296 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-10 16:52:44.337 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-10 16:52:44.341 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-10 16:52:44.342 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[DEBUG] 2024-04-10 17:10:02.903 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 17:10:07.004 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-10 17:10:07.004 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-10 17:10:07.463 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-10 17:10:07.849 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-10 17:10:07.849 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-10 17:10:09.412 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-10 17:10:09.447 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-10 17:10:09.450 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-10 17:10:09.450 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[DEBUG] 2024-04-10 17:14:56.489 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-10 17:15:00.355 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-10 17:15:00.355 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-10 17:15:00.830 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-10 17:15:01.253 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-10 17:15:01.253 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-10 17:15:02.561 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-10 17:15:02.614 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-10 17:15:02.616 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-10 17:15:02.616 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[DEBUG] 2024-04-11 15:09:14.639 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-11 15:09:21.976 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-11 15:09:21.976 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-11 15:09:22.045 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-11 15:09:22.473 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-11 15:09:22.473 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-11 15:09:23.437 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-11 15:09:23.466 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-11 15:09:23.469 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-11 15:09:23.469 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-11 15:09:29.043 [main] TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+[INFO ] 2024-04-11 15:09:29.482 [main] TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+[INFO ] 2024-04-11 15:09:31.581 [main] TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+[INFO ] 2024-04-11 15:09:32.692 [main] TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+[DEBUG] 2024-04-11 15:39:48.212 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-11 15:39:52.068 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-11 15:39:52.068 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-11 15:39:52.147 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-11 15:39:52.465 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-11 15:39:52.465 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-11 15:39:53.384 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-11 15:39:53.427 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-11 15:39:53.430 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-11 15:39:53.430 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-11 15:40:01.337 [main] TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+[INFO ] 2024-04-11 15:40:01.811 [main] TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+[INFO ] 2024-04-11 15:40:05.017 [main] TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+[DEBUG] 2024-04-11 15:41:41.718 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-11 15:41:44.516 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-11 15:41:44.516 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-11 15:41:44.621 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-11 15:41:44.919 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-11 15:41:44.919 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-11 15:41:45.886 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-11 15:41:45.933 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-11 15:41:45.935 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-11 15:41:45.935 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-11 15:41:51.023 [main] TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+[INFO ] 2024-04-11 15:41:51.491 [main] TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+[INFO ] 2024-04-11 15:41:53.620 [main] TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+[INFO ] 2024-04-11 15:41:54.679 [main] TC_005_AddToCartPageTest -  Finished TC_004_SearchProductTest 
+[DEBUG] 2024-04-11 15:43:06.321 [main] TestNG - suiteXmlPath: "C:\Workspace\Automation Newseries\opencart\mastersuite.xml"
+[DEBUG] 2024-04-11 15:43:08.909 [main] TC_001_AccountRegistrationTest - application logs started......
+[INFO ] 2024-04-11 15:43:08.909 [main] TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-11 15:43:09.000 [main] TC_001_AccountRegistrationTest - Clicked on MyAccount link
+[INFO ] 2024-04-11 15:43:09.289 [main] TC_001_AccountRegistrationTest - Clicked on registration link
+[INFO ] 2024-04-11 15:43:09.289 [main] TC_001_AccountRegistrationTest - Entering customer details.. 
+[INFO ] 2024-04-11 15:43:10.357 [main] TC_001_AccountRegistrationTest - clicked on continue..
+[INFO ] 2024-04-11 15:43:10.387 [main] TC_001_AccountRegistrationTest - Validating expected message..
+[DEBUG] 2024-04-11 15:43:10.388 [main] TC_001_AccountRegistrationTest - application logs end.......
+[INFO ] 2024-04-11 15:43:10.389 [main] TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+[INFO ] 2024-04-11 15:43:16.939 [main] TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+[INFO ] 2024-04-11 15:43:17.463 [main] TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+[INFO ] 2024-04-11 15:43:19.591 [main] TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 

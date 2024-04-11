@@ -1,0 +1,47 @@
+18:34:08.531 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking Register******
+18:34:08.538 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details***
+18:34:19.927 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***get confirmation msg***
+18:34:19.927 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+18:35:29.485 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking my Account details******
+18:35:29.927 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking Register******
+18:35:29.928 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details***
+18:35:41.253 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***get confirmation msg***
+18:35:41.253 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+18:37:52.981 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking my Account details******
+18:37:53.455 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking Register******
+18:37:53.455 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details***
+18:38:04.735 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***get confirmation msg***
+18:38:04.735 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+18:39:17.794 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking my Account details******
+18:39:18.351 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking Register******
+18:39:18.351 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details***
+18:39:19.591 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***get confirmation msg***
+18:39:19.591 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Test passed
+18:39:19.594 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***finished test case****
+18:44:30.067 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking my Account details******
+18:44:30.402 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking Register******
+18:44:30.402 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details***
+18:44:41.376 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***get confirmation msg***
+18:44:41.376 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+18:49:00.103 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking my Account details******
+18:49:00.560 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking Register******
+18:49:00.560 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details***
+18:49:11.651 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***get confirmation msg***
+18:49:11.651 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+18:51:37.968 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking my Account details******
+18:51:38.355 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking Register******
+18:51:38.355 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details***
+18:51:49.344 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***get confirmation msg***
+18:51:49.344 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+19:10:13.458 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking my Account details******
+19:10:13.780 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking Register******
+19:10:13.780 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details***
+19:10:14.769 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***get confirmation msg***
+19:10:14.770 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Test passed
+19:10:14.771 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***finished test case****
+19:11:51.930 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking my Account details******
+19:11:52.370 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking Register******
+19:11:52.370 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details***
+19:12:03.314 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***get confirmation msg***
+19:12:03.314 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
+19:13:41.238 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****Clicking my Account details******
